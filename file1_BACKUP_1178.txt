@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hiii im in file 1
-=======
-heyyy where are you im in already files
->>>>>>> updated file1.txt
